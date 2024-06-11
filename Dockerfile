@@ -12,6 +12,6 @@ COPY  *.py ./
 COPY .env ./
 COPY *.txt ./
 
-EXPOSE 514
+EXPOSE 514/UDP
 
 CMD [ "python", "./GlobalProtect_IP-Blocker.py" ]

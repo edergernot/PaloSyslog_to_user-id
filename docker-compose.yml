@@ -4,4 +4,4 @@ services:
     build: .
     command: python GlobalProtect_IP-Blocker.py
     ports:
-      - "514:514"
+      - "514:514/UDP"
