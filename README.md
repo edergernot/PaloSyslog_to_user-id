@@ -16,6 +16,10 @@ How it workes:
 
 * modify "BadUsernames.txt" with the usernames you want to block
 
+* install the required Python libs
+
+```pip install -r requirements.txt```
+
 * run the python script
 
 ![ScriptRun](assets/ScriptrunScreenshot.png)
