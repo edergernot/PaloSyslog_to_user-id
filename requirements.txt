@@ -1,0 +1,3 @@
+pan-os-python==1.12.1
+pan-python==0.17.0
+python-dotenv==1.0.1
