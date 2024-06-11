@@ -1,4 +1,4 @@
-'''Python SysllogServer which creates User in Palpyth	olto for blocking source-IP'''
+'''Python SysllogServer which creates User in Paloalto-FW for blocking source-IP'''
 
 LOG_FILE = "syslogfile.txt"
 HOST, PORT = "0.0.0.0", 514
