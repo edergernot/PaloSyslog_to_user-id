@@ -23,7 +23,9 @@ How it workes:
 * check logs and dynamic address-group
 
 ![trafficlogs](assets/Traffic-Log.png)
+
 ![addressgroup](assets/show_dynamic_addr.png)
+
 ![cli](assets/CLI-Output.png)
 
   
